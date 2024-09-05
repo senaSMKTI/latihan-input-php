@@ -1,3 +1,6 @@
+## Soal
+Soal dapat diakses di https://s.id/latihan-input
+
 ## Petunjuk
 
 Masuk ke folder/direktori htdocs (XAMPP) atau www (laragon), lalu clone repository ini.
